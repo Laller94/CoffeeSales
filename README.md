@@ -1,4 +1,4 @@
-# CoffeeSales
+# Coffee Sales
 
 Data cleaning, data preparation using excel's functions and formatting.
 
