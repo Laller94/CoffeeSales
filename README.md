@@ -12,3 +12,5 @@ Project Insights:
 - The 3 biggest sales were generated from coffe Arabica and Liberica
 - The year 2021 had the most sales and year 2022 had the least ammount in sales
 - Dark coffe roast type was sold more than Medium or Light
+- There were four sizes of coffe bags: 0.2kg, 0.5kg, 1.0kg, 2.5kg
+- The most buys were from the 2.0kg sized bags of coffee
